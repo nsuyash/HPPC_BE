@@ -73,6 +73,31 @@ app.post("/products", async (req, res) => {
   }
 });
 
+app.put("/products", async (req, res) => {
+  try {
+    const newProducts = req.body;
+
+    // Input validation
+    if (!Array.isArray(newProducts) || newProducts.length === 0) {
+      return res.status(400).json({ error: "Please provide an array of product objects." });
+    }
+
+    // Remove all existing products
+    await List.deleteMany({});
+
+    // Insert new products
+    const insertedProducts = await List.insertMany(newProducts);
+
+    res.status(200).json({ 
+      message: "Products replaced successfully!",
+      count: insertedProducts.length,
+      data: insertedProducts
+    });
+  } catch (error) {
+    res.status(500).json({ error: `Failed to replace products: ${error.message}` });
+  }
+});
+
 // Start the server
 const PORT = 3000;
 app.listen(PORT, () => {
