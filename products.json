@@ -6,100 +6,145 @@
         "name": "Formula 1 Shake - Vanilla - 500gms",
         "volumePoint": "21.75",
         "mrp": 2179,
-        "atTwentyFivePercent": 1702,
-        "atThirtyFivePercent": 1511,
-        "atFortyTwoPercent": 1377,
-        "atFiftyPercent": 1225
+        "atTwentyFivePercent": 1713,
+        "atThirtyFivePercent": 1526,
+        "atFortyTwoPercent": 1396,
+        "atFiftyPercent": 1246
       },
       {
         "name": "Formula 1 Shake - Chocolate - 500gms",
         "volumePoint": "21.75",
         "mrp": 2179,
-        "atTwentyFivePercent": 1702,
-        "atThirtyFivePercent": 1511,
-        "atFortyTwoPercent": 1377,
-        "atFiftyPercent": 1225
+        "atTwentyFivePercent": 1713,
+        "atThirtyFivePercent": 1526,
+        "atFortyTwoPercent": 1396,
+        "atFiftyPercent": 1246
       },
       {
         "name": "Formula 1 Shake - Mango - 500gms",
         "volumePoint": "21.75",
         "mrp": 2179,
-        "atTwentyFivePercent": 1702,
-        "atThirtyFivePercent": 1511,
-        "atFortyTwoPercent": 1377,
-        "atFiftyPercent": 1225
+        "atTwentyFivePercent": 1713,
+        "atThirtyFivePercent": 1526,
+        "atFortyTwoPercent": 1396,
+        "atFiftyPercent": 1246
       },
       {
         "name": "Formula 1 Shake - Orange Cream - 500gms",
         "volumePoint": "21.75",
         "mrp": 2179,
-        "atTwentyFivePercent": 1702,
-        "atThirtyFivePercent": 1511,
-        "atFortyTwoPercent": 1377,
-        "atFiftyPercent": 1225
+        "atTwentyFivePercent": 1713,
+        "atThirtyFivePercent": 1526,
+        "atFortyTwoPercent": 1396,
+        "atFiftyPercent": 1246
       },
       {
         "name": "Formula 1 Shake - Strawberry - 500gms",
         "volumePoint": "21.75",
         "mrp": 2179,
-        "atTwentyFivePercent": 1702,
-        "atThirtyFivePercent": 1511,
-        "atFortyTwoPercent": 1377,
-        "atFiftyPercent": 1225
+        "atTwentyFivePercent": 1713,
+        "atThirtyFivePercent": 1526,
+        "atFortyTwoPercent": 1396,
+        "atFiftyPercent": 1246
       },
       {
         "name": "Formula 1 Shake - Kulfi - 500gms",
         "volumePoint": "21.75",
         "mrp": 2179,
-        "atTwentyFivePercent": 1702,
-        "atThirtyFivePercent": 1511,
-        "atFortyTwoPercent": 1377,
-        "atFiftyPercent": 1225
+        "atTwentyFivePercent": 1713,
+        "atThirtyFivePercent": 1526,
+        "atFortyTwoPercent": 1396,
+        "atFiftyPercent": 1246
       },
       {
         "name": "Formula 1 Shake - Banana Caramel - 500gms",
         "volumePoint": "21.75",
         "mrp": 2179,
-        "atTwentyFivePercent": 1702,
-        "atThirtyFivePercent": 1511,
-        "atFortyTwoPercent": 1377,
-        "atFiftyPercent": 1225
+        "atTwentyFivePercent": 1713,
+        "atThirtyFivePercent": 1526,
+        "atFortyTwoPercent": 1396,
+        "atFiftyPercent": 1246
       },
       {
         "name": "Formula 1 Shake - Rose Keer - 500gms",
         "volumePoint": "21.75",
         "mrp": 2179,
-        "atTwentyFivePercent": 1702,
-        "atThirtyFivePercent": 1511,
-        "atFortyTwoPercent": 1377,
-        "atFiftyPercent": 1225
+        "atTwentyFivePercent": 1713,
+        "atThirtyFivePercent": 1526,
+        "atFortyTwoPercent": 1396,
+        "atFiftyPercent": 1246
       },
       {
         "name": "Formula 1 Shake - Paan - 500gms",
         "volumePoint": "21.75",
         "mrp": 2179,
-        "atTwentyFivePercent": 1702,
-        "atThirtyFivePercent": 1511,
-        "atFortyTwoPercent": 1377,
-        "atFiftyPercent": 1225
+        "atTwentyFivePercent": 1713,
+        "atThirtyFivePercent": 1526,
+        "atFortyTwoPercent": 1396,
+        "atFiftyPercent": 1246
+      },
+      {
+        "name": "Formula 1 Shake - Dates Caramel - 500gms",
+        "volumePoint": "21.75",
+        "mrp": 2179,
+        "atTwentyFivePercent": 1713,
+        "atThirtyFivePercent": 1526,
+        "atFortyTwoPercent": 1396,
+        "atFiftyPercent": 1246
+      },
+      {
+        "name": "Formula 1 Shake - Mango - 750gms",
+        "volumePoint": "32.65",
+        "mrp": 3227,
+        "atTwentyFivePercent": 2537,
+        "atThirtyFivePercent": 2261,
+        "atFortyTwoPercent": 2068,
+        "atFiftyPercent": 1847
+      },
+      {
+        "name": "Formula 1 Shake - Vanilla - 750gms",
+        "volumePoint": "32.65",
+        "mrp": 3227,
+        "atTwentyFivePercent": 2537,
+        "atThirtyFivePercent": 2261,
+        "atFortyTwoPercent": 2068,
+        "atFiftyPercent": 1847
+      },
+      {
+        "name": "Formula 1 Shake - Rose Kheer - 750gms",
+        "volumePoint": "32.65",
+        "mrp": 3227,
+        "atTwentyFivePercent": 2537,
+        "atThirtyFivePercent": 2261,
+        "atFortyTwoPercent": 2068,
+        "atFiftyPercent": 1847
+      },
+      {
+        "name": "Formula 1 Shake - Kulfi - 750gms",
+        "volumePoint": "32.65",
+        "mrp": 3227,
+        "atTwentyFivePercent": 2537,
+        "atThirtyFivePercent": 2261,
+        "atFortyTwoPercent": 2068,
+        "atFiftyPercent": 1847
       },
       {
         "name": "Personalized Protine Powder - 200gms",
         "volumePoint": "11.50",
         "mrp": 1295,
-        "atTwentyFivePercent": 1011,
-        "atThirtyFivePercent": 898,
-        "atFortyTwoPercent": 819,
-        "atFiftyPercent": 728
+        "atTwentyFivePercent": 1018,
+        "atThirtyFivePercent": 907,
+        "atFortyTwoPercent": 830,
+        "atFiftyPercent": 741
       },
       {
         "name": "Personalized Protine Powder - 400gms",
         "volumePoint": "22.50",
         "mrp": 2485,
-        "atTwentyFivePercent": 1941,
-        "atThirtyFivePercent": 1724,
-        "atFortyTwoPercent": 1571,
-        "atFiftyPercent": 1398
+        "atTwentyFivePercent": 1953,
+        "atThirtyFivePercent": 1741,
+        "atFortyTwoPercent": 1592,
+        "atFiftyPercent": 1422
       },
       {
         "name": "ShakeMate - 500gms",
@@ -109,15 +154,6 @@
         "atThirtyFivePercent": 540,
         "atFortyTwoPercent": 517,
         "atFiftyPercent": 491
-      },
-      {
-        "name": "Liftoff Watermelon (30 Packets)",
-        "volumePoint": "38.05",
-        "mrp": 4119,
-        "atTwentyFivePercent": 3217,
-        "atThirtyFivePercent": 2857,
-        "atFortyTwoPercent": 2605,
-        "atFiftyPercent": 2316
       }
     ]
   },
@@ -128,10 +164,10 @@
         "name": "Ocular Defence",
         "volumePoint": "19.25",
         "mrp": 1927,
-        "atTwentyFivePercent": 1505,
-        "atThirtyFivePercent": 1336,
-        "atFortyTwoPercent": 1218,
-        "atFiftyPercent": 1083
+        "atTwentyFivePercent": 1515,
+        "atThirtyFivePercent": 1350,
+        "atFortyTwoPercent": 1234,
+        "atFiftyPercent": 1103
       }
     ]
   },
@@ -142,10 +178,10 @@
         "name": "Male Factor +",
         "volumePoint": "34.75",
         "mrp": 3410,
-        "atTwentyFivePercent": 2664,
-        "atThirtyFivePercent": 2365,
-        "atFortyTwoPercent": 2156,
-        "atFiftyPercent": 1918
+        "atTwentyFivePercent": 2681,
+        "atThirtyFivePercent": 2389,
+        "atFortyTwoPercent": 2185,
+        "atFiftyPercent": 1952
       }
     ]
   },
@@ -156,10 +192,10 @@
         "name": "Woman's Choice",
         "volumePoint": "12.45",
         "mrp": 1245,
-        "atTwentyFivePercent": 972,
-        "atThirtyFivePercent": 863,
-        "atFortyTwoPercent": 787,
-        "atFiftyPercent": 700
+        "atTwentyFivePercent": 978,
+        "atThirtyFivePercent": 872,
+        "atFortyTwoPercent": 798,
+        "atFiftyPercent": 712
       }
     ]
   },
@@ -170,10 +206,10 @@
         "name": "Vritilife Brain Health - 60 Tbs",
         "volumePoint": "15.10",
         "mrp": 1464,
-        "atTwentyFivePercent": 1143,
-        "atThirtyFivePercent": 1015,
-        "atFortyTwoPercent": 926,
-        "atFiftyPercent": 823
+        "atTwentyFivePercent": 1151,
+        "atThirtyFivePercent": 1026,
+        "atFortyTwoPercent": 938,
+        "atFiftyPercent": 838
       }
     ]
   },
@@ -184,37 +220,37 @@
         "name": "Vritilife Facial Cleanser - 100ml",
         "volumePoint": "10.40",
         "mrp": 1165,
-        "atTwentyFivePercent": 910,
-        "atThirtyFivePercent": 808,
-        "atFortyTwoPercent": 736,
-        "atFiftyPercent": 655
+        "atTwentyFivePercent": 916,
+        "atThirtyFivePercent": 816,
+        "atFortyTwoPercent": 746,
+        "atFiftyPercent": 667
       },
       {
         "name": "Vritilife Facial Toner - 100ml",
         "volumePoint": "11.80",
         "mrp": 1322,
-        "atTwentyFivePercent": 1033,
-        "atThirtyFivePercent": 917,
-        "atFortyTwoPercent": 836,
-        "atFiftyPercent": 743
+        "atTwentyFivePercent": 1039,
+        "atThirtyFivePercent": 926,
+        "atFortyTwoPercent": 847,
+        "atFiftyPercent": 756
       },
       {
         "name": "Vritilife Facial Serum - 60ml",
         "volumePoint": "27.05",
         "mrp": 3022,
-        "atTwentyFivePercent": 2361,
-        "atThirtyFivePercent": 2096,
-        "atFortyTwoPercent": 1911,
-        "atFiftyPercent": 1700
+        "atTwentyFivePercent": 2376,
+        "atThirtyFivePercent": 2118,
+        "atFortyTwoPercent": 1937,
+        "atFiftyPercent": 1730
       },
       {
         "name": "Vritilife Moisturizer - 100ml",
         "volumePoint": "13.15",
         "mrp": 1473,
-        "atTwentyFivePercent": 1151,
-        "atThirtyFivePercent": 1022,
-        "atFortyTwoPercent": 931,
-        "atFiftyPercent": 828
+        "atTwentyFivePercent": 1158,
+        "atThirtyFivePercent": 1032,
+        "atFortyTwoPercent": 944,
+        "atFiftyPercent": 843
       },
       {
         "name": "HN-Skin Booster - Orange - 10gms * 30 Sachets",
@@ -243,10 +279,10 @@
         "name": "Vritilife Immune Health - 60 Tbs",
         "volumePoint": "15.80",
         "mrp": 1528,
-        "atTwentyFivePercent": 1193,
-        "atThirtyFivePercent": 1060,
-        "atFortyTwoPercent": 966,
-        "atFiftyPercent": 859
+        "atTwentyFivePercent": 1201,
+        "atThirtyFivePercent": 1070,
+        "atFortyTwoPercent": 979,
+        "atFiftyPercent": 874
       }
     ]
   },
@@ -257,55 +293,55 @@
         "name": "Afresh Energy Drink Mix - Ginger - 50gms",
         "volumePoint": "7.80",
         "mrp": 812,
-        "atTwentyFivePercent": 634,
-        "atThirtyFivePercent": 563,
-        "atFortyTwoPercent": 513,
-        "atFiftyPercent": 456
+        "atTwentyFivePercent": 638,
+        "atThirtyFivePercent": 568,
+        "atFortyTwoPercent": 520,
+        "atFiftyPercent": 464
       },
       {
         "name": "Afresh Energy Drink Mix - Elaichi - 50gms",
         "volumePoint": "7.80",
         "mrp": 812,
-        "atTwentyFivePercent": 634,
-        "atThirtyFivePercent": 563,
-        "atFortyTwoPercent": 513,
-        "atFiftyPercent": 456
+        "atTwentyFivePercent": 638,
+        "atThirtyFivePercent": 568,
+        "atFortyTwoPercent": 520,
+        "atFiftyPercent": 464
       },
       {
         "name": "Afresh Energy Drink Mix - Lemon - 50gms",
         "volumePoint": "7.80",
         "mrp": 812,
-        "atTwentyFivePercent": 634,
-        "atThirtyFivePercent": 563,
-        "atFortyTwoPercent": 513,
-        "atFiftyPercent": 456
+        "atTwentyFivePercent": 638,
+        "atThirtyFivePercent": 568,
+        "atFortyTwoPercent": 520,
+        "atFiftyPercent": 464
       },
       {
         "name": "Afresh Energy Drink Mix - Peach - 50gms",
         "volumePoint": "7.80",
         "mrp": 812,
-        "atTwentyFivePercent": 634,
-        "atThirtyFivePercent": 563,
-        "atFortyTwoPercent": 513,
-        "atFiftyPercent": 456
+        "atTwentyFivePercent": 638,
+        "atThirtyFivePercent": 568,
+        "atFortyTwoPercent": 520,
+        "atFiftyPercent": 464
       },
       {
         "name": "Afresh Energy Drink Mix - Cinnamon - 50gms",
         "volumePoint": "7.80",
         "mrp": 812,
-        "atTwentyFivePercent": 634,
-        "atThirtyFivePercent": 563,
-        "atFortyTwoPercent": 513,
-        "atFiftyPercent": 456
+        "atTwentyFivePercent": 638,
+        "atThirtyFivePercent": 568,
+        "atFortyTwoPercent": 520,
+        "atFiftyPercent": 464
       },
       {
         "name": "Afresh Energy Drink Mix - Kashmiri Kahwa - 40gms",
         "volumePoint": "7.80",
         "mrp": 812,
-        "atTwentyFivePercent": 634,
-        "atThirtyFivePercent": 563,
-        "atFortyTwoPercent": 513,
-        "atFiftyPercent": 456
+        "atTwentyFivePercent": 638,
+        "atThirtyFivePercent": 568,
+        "atFortyTwoPercent": 520,
+        "atFiftyPercent": 464
       },
       {
         "name": "Afresh Energy Drink Mix - Tulsi - 50gms",
@@ -315,6 +351,24 @@
         "atThirtyFivePercent": 580,
         "atFortyTwoPercent": 534,
         "atFiftyPercent": 481
+      },
+      {
+        "name": "Liftoff Watermelon (30 Packets)",
+        "volumePoint": "38.05",
+        "mrp": 4119,
+        "atTwentyFivePercent": 3238,
+        "atThirtyFivePercent": 2886,
+        "atFortyTwoPercent": 2639,
+        "atFiftyPercent": 2357
+      },
+      {
+        "name": "Liftoff Watermelon (10 Packets)",
+        "volumePoint": "12.95",
+        "mrp": 1401,
+        "atTwentyFivePercent": 1101,
+        "atThirtyFivePercent": 982,
+        "atFortyTwoPercent": 898,
+        "atFiftyPercent": 802
       }
     ]
   },
@@ -348,19 +402,19 @@
         "name": "DinoShake - Chocolicious - 200gms",
         "volumePoint": "9.60",
         "mrp": 1115,
-        "atTwentyFivePercent": 870,
-        "atThirtyFivePercent": 773,
-        "atFortyTwoPercent": 704,
-        "atFiftyPercent": 626
+        "atTwentyFivePercent": 876,
+        "atThirtyFivePercent": 780,
+        "atFortyTwoPercent": 714,
+        "atFiftyPercent": 637
       },
       {
         "name": "DinoShake - Strawberry - 200gms",
         "volumePoint": "9.60",
         "mrp": 1115,
-        "atTwentyFivePercent": 870,
-        "atThirtyFivePercent": 773,
-        "atFortyTwoPercent": 704,
-        "atFiftyPercent": 626
+        "atTwentyFivePercent": 876,
+        "atThirtyFivePercent": 780,
+        "atFortyTwoPercent": 714,
+        "atFiftyPercent": 637
       }
     ]
   },
@@ -371,55 +425,55 @@
         "name": "Activated Fiber - 90 Tbs",
         "volumePoint": "15.75",
         "mrp": 1636,
-        "atTwentyFivePercent": 1278,
-        "atThirtyFivePercent": 1135,
-        "atFortyTwoPercent": 1034,
-        "atFiftyPercent": 920
+        "atTwentyFivePercent": 1286
+        "atThirtyFivePercent": 1146,
+        "atFortyTwoPercent": 1048,
+        "atFiftyPercent": 936
       },
       {
         "name": "Active Fiber Complex - Unflavoured - 200gms",
         "volumePoint": "22.95",
         "mrp": 2559,
-        "atTwentyFivePercent": 1999,
-        "atThirtyFivePercent": 1775,
-        "atFortyTwoPercent": 1618,
-        "atFiftyPercent": 1439
+        "atTwentyFivePercent": 2012,
+        "atThirtyFivePercent": 1793,
+        "atFortyTwoPercent": 1640,
+        "atFiftyPercent": 1465
       },
       {
         "name": "Aloe Plus - 60 Capsules",
         "volumePoint": "9.40",
         "mrp": 1059,
-        "atTwentyFivePercent": 827,
-        "atThirtyFivePercent": 734,
-        "atFortyTwoPercent": 669,
-        "atFiftyPercent": 595
+        "atTwentyFivePercent": 832,
+        "atThirtyFivePercent": 741,
+        "atFortyTwoPercent": 678,
+        "atFiftyPercent": 605
       },
       {
         "name": "Herbal Aloe Concentrate - 500 ml",
         "volumePoint": "24.95",
         "mrp": 2696,
-        "atTwentyFivePercent": 2106,
-        "atThirtyFivePercent": 1870,
-        "atFortyTwoPercent": 1705,
-        "atFiftyPercent": 1516
+        "atTwentyFivePercent": 2119,
+        "atThirtyFivePercent": 1889,
+        "atFortyTwoPercent": 1772,
+        "atFiftyPercent": 1543
       },
       {
         "name": "Simply Probiotic - 1gms*30 Sachets",
         "volumePoint": "21.95",
         "mrp": 2209,
-        "atTwentyFivePercent": 1725,
-        "atThirtyFivePercent": 1532,
-        "atFortyTwoPercent": 1396,
-        "atFiftyPercent": 1242
+        "atTwentyFivePercent": 1736,
+        "atThirtyFivePercent": 1547,
+        "atFortyTwoPercent": 1415,
+        "atFiftyPercent": 1264
       },
       {
         "name": "vritilife Triphala - 60 Tbs",
         "volumePoint": "11.25",
         "mrp": 1089,
-        "atTwentyFivePercent": 851,
-        "atThirtyFivePercent": 755,
-        "atFortyTwoPercent": 688,
-        "atFiftyPercent": 612
+        "atTwentyFivePercent": 856,
+        "atThirtyFivePercent": 763,
+        "atFortyTwoPercent": 698,
+        "atFiftyPercent": 623
       }
     ]
   },
@@ -430,19 +484,19 @@
         "name": "Herbalife Calcium Tablets - 60 Tbs",
         "volumePoint": "10.25",
         "mrp": 1203,
-        "atTwentyFivePercent": 939,
-        "atThirtyFivePercent": 834,
-        "atFortyTwoPercent": 760,
-        "atFiftyPercent": 676
+        "atTwentyFivePercent": 945,
+        "atThirtyFivePercent": 842,
+        "atFortyTwoPercent": 771,
+        "atFiftyPercent": 688
       },
       {
         "name": "Joint Support - 60 Tbs",
         "volumePoint": "20.90",
         "mrp": 2455,
-        "atTwentyFivePercent": 1918,
-        "atThirtyFivePercent": 1703,
-        "atFortyTwoPercent": 1552,
-        "atFiftyPercent": 1380
+        "atTwentyFivePercent": 1930,
+        "atThirtyFivePercent": 1720,
+        "atFortyTwoPercent": 1573,
+        "atFiftyPercent": 1405
       }
     ]
   },
@@ -453,19 +507,19 @@
         "name": "Herbalife Niteworks - 300 gms",
         "volumePoint": "75.00",
         "mrp": 7128,
-        "atTwentyFivePercent": 5568,
-        "atThirtyFivePercent": 4944,
-        "atFortyTwoPercent": 4508,
-        "atFiftyPercent": 4009
+        "atTwentyFivePercent": 5604,
+        "atThirtyFivePercent": 4994,
+        "atFortyTwoPercent": 4568,
+        "atFiftyPercent": 4080
       },
       {
         "name": "Herbalifeline - 60 Softgels",
         "volumePoint": "25.75",
         "mrp": 2667,
-        "atTwentyFivePercent": 2083,
-        "atThirtyFivePercent": 1850,
-        "atFortyTwoPercent": 1687,
-        "atFiftyPercent": 1500
+        "atTwentyFivePercent": 2097,
+        "atThirtyFivePercent": 1869,
+        "atFortyTwoPercent": 1709,
+        "atFiftyPercent": 1527
       },
       {
         "name": "Beta Heart - Vanilla Flavour - 15gms*15 Sachets",
@@ -485,37 +539,37 @@
         "name": "Multivitamin Mineral and Herbal Tablets Plus - 90 Tbs",
         "volumePoint": "19.95",
         "mrp": 2004,
-        "atTwentyFivePercent": 1565,
-        "atThirtyFivePercent": 1390,
-        "atFortyTwoPercent": 1267,
-        "atFiftyPercent": 1127
+        "atTwentyFivePercent": 1575,
+        "atThirtyFivePercent": 1404,
+        "atFortyTwoPercent": 1284,
+        "atFiftyPercent": 1147
       },
       {
         "name": "Cell Activator - New - 60 Tbs",
         "volumePoint": "21.95",
         "mrp": 2215,
-        "atTwentyFivePercent": 1730,
-        "atThirtyFivePercent": 1536,
-        "atFortyTwoPercent": 1400,
-        "atFiftyPercent": 1245
+        "atTwentyFivePercent": 1741,
+        "atThirtyFivePercent": 1551,
+        "atFortyTwoPercent": 1419,
+        "atFiftyPercent": 1267
       },
       {
         "name": "Cell-U-Loss Advanced - 90 Tbs",
         "volumePoint": "15.75",
         "mrp": 1705,
-        "atTwentyFivePercent": 1331,
-        "atThirtyFivePercent": 1182,
-        "atFortyTwoPercent": 1078,
+        "atTwentyFivePercent": 1340,
+        "atThirtyFivePercent": 1192,
+        "atFortyTwoPercent": 975,
         "atFiftyPercent": 959
       },
       {
         "name": "Herbal Control - 90 Tbs",
         "volumePoint": "32.95",
         "mrp": 3433,
-        "atTwentyFivePercent": 2681,
-        "atThirtyFivePercent": 2381,
-        "atFortyTwoPercent": 2171,
-        "atFiftyPercent": 1930
+        "atTwentyFivePercent": 2699,
+        "atThirtyFivePercent": 2405,
+        "atFortyTwoPercent": 2199,
+        "atFiftyPercent": 1965
       }
     ]
   },
@@ -526,10 +580,10 @@
         "name": "Sleep Enhance",
         "volumePoint": "16.30",
         "mrp": 1697,
-        "atTwentyFivePercent": 1326,
-        "atThirtyFivePercent": 1177,
-        "atFortyTwoPercent": 1073,
-        "atFiftyPercent": 954
+        "atTwentyFivePercent": 1334,
+        "atThirtyFivePercent": 1189,
+        "atFortyTwoPercent": 1087,
+        "atFiftyPercent": 971
       }
     ]
   }
